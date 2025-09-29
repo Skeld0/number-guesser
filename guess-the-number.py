@@ -2,7 +2,6 @@ import random
 def guesser():
     right_number = random.randint(0,10)
     atempts = 0
-    print("Ошибка! Введено не число. ")
     while True:
         try: 
             user_number = int(input("Try to guess number from 0 to 10: "))
