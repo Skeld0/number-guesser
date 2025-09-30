@@ -14,9 +14,10 @@ All you need is Python 3.x installed on your system.
 
 1.  Save the code as guess-the-number.py.
 2.  Open your terminal or command prompt.
-3.  Execute the script using the command:
+3.  Execute the script using the command: ```python guess-the-number.py```
 
-python guess-the-number.pyGameplay
+Gameplay
+
 Enter your guess when prompted. The game will provide instant feedback (too low, too high, or correct) to help you narrow down the answer. Your goal is to find the correct number in the fewest attempts possible!
 
 ✨ Key Features
